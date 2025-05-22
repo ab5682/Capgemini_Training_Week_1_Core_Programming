@@ -13,7 +13,7 @@ Welcome to **Week 1** of our Java journey! This repo lays down the fundamentals 
   - 🗓 [Day 3: Control Flow](#day-3-control-flow)
   - 🗓 [Day 4: Arrays](#day-4-arrays)
   - 🗓 [Day 5: Strings](#day-5-strings)
-  - 🗓 [Extras: Built In Function and String](#extras-built---in-function-and-java)
+  - 🗓 [Extras: Built In Function and String](#extras-built-in-function-and-java)
 - 💻 [Prerequisites](#prerequisites)
 - 📁 [How to Use This Repo](#how-to-use-this-repo)
 - 🔭 [Next Steps](#next-steps)
@@ -65,7 +65,7 @@ Week 1 is all about mastering the **core building blocks of Java**. By the end o
 - Common methods: `length()`, `charAt()`, `substring()`, `equals()`, `equalsIgnoreCase()`
 - String concatenation and immutability
 
-### Extras: Built-In Function and String
+### Extras: Built In Function and String
 
 - What are built in function and how to use it
 - `String` more deeply
