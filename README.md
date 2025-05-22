@@ -13,7 +13,7 @@ Welcome to **Week 1** of our Java journey! This repo lays down the fundamentals 
   - 🗓 [Day 3: Control Flow](#day-3-control-flow)
   - 🗓 [Day 4: Arrays](#day-4-arrays)
   - 🗓 [Day 5: Strings](#day-5-strings)
-  - 🗓 [Extras: Built In Function and String](#extras-built-in-function-and-java)
+  - 🗓 [Extras: Built In Function and String](#extras-built---in-function-and-java)
 - 💻 [Prerequisites](#prerequisites)
 - 📁 [How to Use This Repo](#how-to-use-this-repo)
 - 🔭 [Next Steps](#next-steps)
