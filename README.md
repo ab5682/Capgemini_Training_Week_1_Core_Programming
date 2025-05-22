@@ -13,7 +13,7 @@ Welcome to **Week 1** of our Java journey! This repo lays down the fundamentals 
   - 🗓 [Day 3: Arrays](#day-3-arrays)
   - 🗓 [Day 4: Methods](#day-4-methods)
   - 🗓 [Day 5: Strings](#day-5-strings)
-  - 🗓 [Extras: Built In Function and String](#extras-built-in-function-and-java)
+  - 🗓 [Extras: Built In Function and String](#extras-built-in-function-and-string)
 - 💻 [Prerequisites](#prerequisites)
 - 📁 [How to Use This Repo](#how-to-use-this-repo)
 - 🔭 [Next Steps](#next-steps)
@@ -55,7 +55,7 @@ Week 1 is all about mastering the **core building blocks of Java**. By the end o
 - Iterating through arrays using loops
 - Multi-dimensional arrays
 
-### Da4 4: Methods
+### Day 4: Methods
 - What are methods and why use them?
 - Declaring and defining methods
 - Calling methods
